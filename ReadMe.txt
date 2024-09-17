@@ -1,0 +1,1 @@
+When viewing a document, please click "More Pages" at the bottom of the screen to view the entire document.
